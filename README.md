@@ -1,8 +1,8 @@
-# GraphQL endpointb
+# GraphQL Endpoint
 
 ### Overview
 
-An endpoint to implement the minimalistic storefront.
+An endpoint to implement a minimalistic storefront.
 
 ### How to start
 
